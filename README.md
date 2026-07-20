@@ -13,3 +13,5 @@ The project combines cybersecurity research with a functional security tool, fea
 The system focuses on creating a more adaptive approach to threat detection by using machine learning models to identify patterns that may indicate malicious behaviour. The goal is to bridge the gap between cybersecurity theory and real-world application by developing a practical tool that can support security monitoring, threat analysis, and proactive defence strategies.
 
 (Extensive research also accompanies the project).
+
+<img width="830" height="594" alt="image" src="https://github.com/user-attachments/assets/25c106de-0afe-439f-a371-2f7d41ac8044" />
